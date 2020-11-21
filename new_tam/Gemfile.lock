@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/Vetal0821/html_pet
+  revision: eaf67b848ae5f215ecc9faee5227545e53674dfb
+  specs:
+    html_pet (0.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  html_pet (>= 0.0.2)!
+
+BUNDLED WITH
+   2.1.4
